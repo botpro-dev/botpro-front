@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([["9t2G"],{"9t2G":function(e,t,n){"use strict";n.r(t);var i={name:"CreateForm",components:{UserEdit:n("5kii").a}},s=n("KHd+"),r=Object(s.a)(i,function(){var e=this.$createElement;return(this._self._c||e)("user-edit",{attrs:{"is-edit":!1}})},[],!1,null,null,null);r.options.__file="create.vue";t.default=r.exports}}]);
