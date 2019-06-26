@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([["bp9k"],{bp9k:function(e,n,t){"use strict";t.r(n);var r={name:"CreateForm",components:{BranchForm:t("9nBK").a}},a=t("KHd+"),o=Object(a.a)(r,function(){var e=this.$createElement;return(this._self._c||e)("branch-form",{attrs:{"is-edit":!1}})},[],!1,null,null,null);o.options.__file="create.vue";n.default=o.exports}}]);

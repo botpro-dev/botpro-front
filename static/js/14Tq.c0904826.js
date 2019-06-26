@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([["14Tq"],{"14Tq":function(e,n,t){"use strict";t.r(n);var o={name:"CreateForm",components:{CompanyForm:t("iU+G").a}},a=t("KHd+"),r=Object(a.a)(o,function(){var e=this.$createElement;return(this._self._c||e)("company-form",{attrs:{"is-edit":!1}})},[],!1,null,null,null);r.options.__file="create.vue";n.default=r.exports}}]);

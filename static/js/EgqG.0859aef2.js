@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([["EgqG"],{EgqG:function(t,e,n){"use strict";n.r(e);var i={name:"EditForm",components:{CompanyEdit:n("0U1t").a}},o=n("KHd+"),s=Object(o.a)(i,function(){var t=this.$createElement;return(this._self._c||t)("company-edit",{attrs:{"is-edit":!0}})},[],!1,null,null,null);s.options.__file="edit.vue";e.default=s.exports}}]);

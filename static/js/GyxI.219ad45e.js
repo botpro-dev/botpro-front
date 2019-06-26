@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([["GyxI"],{GyxI:function(e,t,n){"use strict";n.r(t);var o={name:"EditForm",components:{ItemForm:n("EouV").a}},i=n("KHd+"),r=Object(i.a)(o,function(){var e=this.$createElement;return(this._self._c||e)("item-form",{attrs:{"is-edit":!1}})},[],!1,null,null,null);r.options.__file="create.vue";t.default=r.exports}}]);
